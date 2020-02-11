@@ -1,0 +1,15 @@
+*** res ***
+body {
+	background-color: #ffffff;
+	font-style: italic;
+	font-size: 32px;
+	color: #000000;
+}
+
+div.footer {
+  color: #ffffff;
+  background-color: #2f1154;
+  width: 100%;
+  height: 300px;
+  border: 1px solid #000000;
+}
