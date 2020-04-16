@@ -1,15 +1,21 @@
-*** res ***
 body {
 	background-color: #ffffff;
-	font-style: italic;
 	font-size: 32px;
 	color: #000000;
+	padding: 0px;
+	margin: 0px;
 }
 
-div.footer {
-  color: #ffffff;
-  background-color: #2f1154;
+div#topbar {
+  color: #ff0000;
+  background-color: #444444;
   width: 100%;
-  height: 300px;
+  border: 0px solid #000000;
+}
+
+div#footer {
+  color: #ffffff;
+  background-color: #444444;
+  width: 100%;
   border: 1px solid #000000;
 }
